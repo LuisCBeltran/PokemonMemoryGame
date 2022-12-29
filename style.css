@@ -1,0 +1,14 @@
+.main {
+    max-width: 770px;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: 130px 130px 130px 130px 130px;
+    grid-template-rows: 130px 130px 130px 130px;
+}
+
+.cardImg {
+    width: 110px;
+    height: 110px;
+}
